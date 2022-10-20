@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kakarot987
-- 👀 I’m interested in ... Java, Spring Boot, Spring
-- 🌱 I’m currently learning ... microservices
+- 👀 I’m interested in ... Java, Spring Boot, Spring,microservices
+- 🌱 I’m currently learning ... Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... linkedin.com/in/mayank-devrani-200bb815b
 
