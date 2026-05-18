@@ -12,5 +12,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Skills:
+
 Kubernetes
 - https://github.com/kakarot987/K8s-App-Shipping
+
+Spring AI
+- https://github.com/kakarot987/spring-ai
+
+GCP
+- https://github.com/kakarot987/gcp-cloud-engineering-lab
