@@ -25,3 +25,6 @@ GCP
 Docker
 - https://github.com/kakarot987/mvc-docker-demo
 - https://github.com/kakarot987/webflux-docker-demo
+
+Graphql
+- https://github.com/kakarot987/graphQL-pagination-strategies
