@@ -28,3 +28,8 @@ Docker
 
 Graphql
 - https://github.com/kakarot987/graphQL-pagination-strategies
+
+
+## Projects
+- TodoList (2020): https://github.com/kakarot987/ToDoList
+- https://github.com/kakarot987/myCafeteria
