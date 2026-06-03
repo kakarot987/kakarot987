@@ -29,7 +29,8 @@ Docker
 Graphql
 - https://github.com/kakarot987/graphQL-pagination-strategies
 
-
+## Design Pattern
+- Adapter Pattern: https://github.com/kakarot987/AdapterPatternNodePlusReact
 ## Projects
 - TodoList (2020): https://github.com/kakarot987/ToDoList
 - https://github.com/kakarot987/myCafeteria
