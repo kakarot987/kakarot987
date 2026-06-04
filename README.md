@@ -33,6 +33,9 @@ Graphql
 - Adapter Pattern: https://github.com/kakarot987/AdapterPatternNodePlusReact
 - Singleton Pattern: https://github.com/kakarot987/singleton-pattern
 - Factory Design Pattern: https://github.com/kakarot987/factory-design-pattern
+  - Abstract Factory Design Pattern: https://github.com/kakarot987/abstract-factory-pattern
+- Builder Design Pattern:
+  - Classic Builder Design Pattern: https://github.com/kakarot987/classic-builder-design-pattern
 ## Projects
 - TodoList (2020): https://github.com/kakarot987/ToDoList
 - https://github.com/kakarot987/myCafeteria
