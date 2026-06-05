@@ -38,6 +38,7 @@ Graphql
   - Classic Builder Design Pattern: https://github.com/kakarot987/classic-builder-design-pattern
   - Generic Builder Design Pattern: https://github.com/kakarot987/generic-builder-patter
 - Proxy Design Pattern: https://github.com/kakarot987/proxy-design-pattern
+- Decorator Design Pattern: https://github.com/kakarot987/decorator-design-pattern
 ## Projects
 - TodoList (2020): https://github.com/kakarot987/ToDoList
 - https://github.com/kakarot987/myCafeteria
