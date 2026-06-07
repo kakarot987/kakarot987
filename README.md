@@ -29,6 +29,14 @@ Docker
 Graphql
 - https://github.com/kakarot987/graphQL-pagination-strategies
 
+Spring/Spring Boot/Spring Data/Spring Security/Spring Cloud
+- Spring-Data-Jooq-Liquibase-Mysql: https://github.com/kakarot987/Spring-Data-Jooq-Liquibase-Mysql
+- Liquibase-Jooq-Spring-Boot: https://github.com/kakarot987/Liquibase-Jooq-Spring-Boot
+
+Apache:
+- Apache Tika: https://github.com/kakarot987/ApacheTika
+- 
+
 ## Design Pattern
 - Adapter Pattern: https://github.com/kakarot987/AdapterPatternNodePlusReact
 - Singleton Pattern: https://github.com/kakarot987/singleton-pattern
@@ -42,4 +50,9 @@ Graphql
 - Facade Design Pattern: https://github.com/kakarot987/Facade-design-pattern
 ## Projects
 - TodoList (2020): https://github.com/kakarot987/ToDoList
-- https://github.com/kakarot987/myCafeteria
+- MyCafeteria (2021): https://github.com/kakarot987/myCafeteria
+- MySpace (2021): https://github.com/kakarot987/mySpace'
+- recipeQueen (2022): https://github.com/kakarot987/recipeQueen
+- BeanLoveBeer (2020): https://github.com/kakarot987/BeanLoveBeer
+- Amazon Clone (2023): https://github.com/kakarot987/Amazon_Clone_BckEnd
+- BeerCatalog (2023): https://github.com/kakarot987/beerCatalog
