@@ -37,7 +37,7 @@ Apache:
 - Apache Tika: https://github.com/kakarot987/ApacheTika
 - 
 
-## Design Pattern
+## Design Pattern ```(Need to Improve)```
 - Adapter Pattern: https://github.com/kakarot987/AdapterPatternNodePlusReact
 - Singleton Pattern: https://github.com/kakarot987/singleton-pattern
 - Factory Design Pattern: https://github.com/kakarot987/factory-design-pattern
@@ -48,7 +48,7 @@ Apache:
 - Proxy Design Pattern: https://github.com/kakarot987/proxy-design-pattern
 - Decorator Design Pattern: https://github.com/kakarot987/decorator-design-pattern
 - Facade Design Pattern: https://github.com/kakarot987/Facade-design-pattern
-## Projects
+## Projects  ```(Need to Improve)```
 - TodoList (2020): https://github.com/kakarot987/ToDoList
 - MyCafeteria (2021): https://github.com/kakarot987/myCafeteria
 - MySpace (2021): https://github.com/kakarot987/mySpace'
