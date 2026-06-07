@@ -13,8 +13,12 @@ You can click the Preview link to take a look at your changes.
 
 Skills:
 
-Kubernetes
-- https://github.com/kakarot987/K8s-App-Shipping
+AI/ML: 
+- Web3j: https://github.com/kakarot987/web3j-Hello-world
+- AI first Agent: https://github.com/kakarot987/ai-agent-first, https://github.com/kakarot987/first-local-ai-agent-ollama
+- Grol API call: https://github.com/kakarot987/grok-api-call
+- Langchain framework: https://github.com/kakarot987/langchain-framework
+- K8s-App-Shipping: https://github.com/kakarot987/K8s-App-Shipping
 
 Spring AI
 - https://github.com/kakarot987/spring-ai
@@ -32,10 +36,26 @@ Graphql
 Spring/Spring Boot/Spring Data/Spring Security/Spring Cloud
 - Spring-Data-Jooq-Liquibase-Mysql: https://github.com/kakarot987/Spring-Data-Jooq-Liquibase-Mysql
 - Liquibase-Jooq-Spring-Boot: https://github.com/kakarot987/Liquibase-Jooq-Spring-Boot
+- Spring Webflux: https://github.com/kakarot987/spring-webflux-reactive-api-demo
 
 Apache:
 - Apache Tika: https://github.com/kakarot987/ApacheTika
+
+Microservices:
+- Event_driven_Architecture_Kafka_Spring_Boot: https://github.com/kakarot987/Event_driven_Architecture_Kafka_Spring_Boot
+
+DevOps:
+- Terraform: https://github.com/kakarot987/spring-boot-terraform
+- CI/CD: https://github.com/kakarot987/spring-boot-cicd
+- Containerization: https://github.com/kakarot987/spring-boot-containerization
+- ELK: https://github.com/kakarot987/spring-boot-elk
+- Kubernetes: https://github.com/kakarot987/K8s-App-Shipping
+- IAAC: https://github.com/kakarot987/Infra-as-Code
 - 
+
+Own Library:
+Getting started: https://github.com/kakarot987/jsMathLibrary, https://github.com/kakarot987/js-lib-demo
+
 
 ## Design Pattern ```(Need to Improve)```
 - Adapter Pattern: https://github.com/kakarot987/AdapterPatternNodePlusReact
@@ -56,3 +76,5 @@ Apache:
 - BeanLoveBeer (2020): https://github.com/kakarot987/BeanLoveBeer
 - Amazon Clone (2023): https://github.com/kakarot987/Amazon_Clone_BckEnd
 - BeerCatalog (2023): https://github.com/kakarot987/beerCatalog
+
+
